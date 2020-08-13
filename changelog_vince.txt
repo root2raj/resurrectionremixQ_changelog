@@ -1,0 +1,7 @@
+===== 13-08-2020 =====
+
+* Official Q Release
+* Face Unlock
+* Pixel Charging Animation
+* OTA Updater
+* Sleepy Kernel Prebuilt
