@@ -1,7 +1,44 @@
+===== 31-08-2020 =====
+
+* RR version bump to 8.5.9
+* Add navbar styles
+* Enable long screenshot by default and add an option to disable it
+* Make search bar corners rounded
+* Add Justicons QS tile style
+* Add volume panel music card
+* Add volume panel plugin and styles
+* Add OOS 10 VoLTE icon style
+* Extended navbar pulse to lockscreen
+* Add lockscreen date styles
+* Add lockscreen weather
+* Update lockscreen item padding settings
+* Add Owner info and date alignment options
+* Fix default navigation handle height
+* Enable alpha slider in slim recents
+* Fix resetting default gradient color 
+* Clipboard toggle improvements
+* Add accent Typeclock
+* Add pixel navbar animation toggle
+* Some more improvements and fixes
+* vince: Import Pixel Power HAL
+* vince: Initial powerhint
+* vince: Address some selinux denials
+* vince: Tune ZRAM performance
+* vince: Set correct aspect ratio
+* vince: Fix display wakeup
+* vince: Import init.class_main.sh from LA.UM.8.6.2.r1-08100-89xx.0
+* vince: Enable aosp surfaceflinger
+* vince: Address thermal-engine denials
+* vince: Address radio & VPN denials
+* vince: Disable forced camera shutter sound
+* vince: Remove smart pixels
+* vince: Add missing entries & cleanup rootdir
+* vince: Kernel Upstreamed with tag 4.9.234
+
 ===== 13-08-2020 =====
 
 * Official Q Release
 * Face Unlock
 * Pixel Charging Animation
 * OTA Updater
-* Sleepy Kernel Prebuilt
+* vince: Sleepy Kernel Prebuilt
