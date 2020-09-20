@@ -1,3 +1,41 @@
+===== 20-09-2020 =====
+
+* RR version bump to 8.6.0
+* September 2020 security patch
+* Improve Power menu background filter code
+* Use AOSP bluetooth icon when showing battery level
+* Add option to center "R style" notification headers 
+* Add dynamic immersive mode tile
+* Add some non-gradient switch styles
+* Add custom color filter for QS panel blur and power menu background
+* Add Pixel Now Playing support
+* Add some more custom logos
+* Resize some statusbar logos
+* Add app volume row to volume panel
+* Add brightness slider themes
+* Import back arrow from OOS
+* Add support for MiSound FX
+* Add option to enable random QS tint
+* Add some more charging animations
+* Add QS Panel Type Background
+* Allow setting blur radius for QS Image
+* Allow to disable permissions hub
+* Update translations
+* Some more improvements and fixes
+* vince: Update to coral september fp
+* vince: Enable DFS channel scanning in P2P search
+* vince: Import new thermal engine
+* vince: Fixed WiFiDisplay
+* vince: Update GPS config
+* vince: Fixed signal delay after boot
+* vince: Address some selinux denials
+* vince: Update power profile from ysl
+* vince: Update privapp-permissions-qti & qti_whitelist from daisy 
+* vince: Switch to caf surfaceflinger
+* vince: Fixed audio recording distortion
+* vince: Bump earpiece volume to 88 
+* vince: Kernel Upstreamed with tag 4.9.236
+
 ===== 31-08-2020 =====
 
 * RR version bump to 8.5.9
