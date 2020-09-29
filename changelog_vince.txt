@@ -1,3 +1,19 @@
+===== 29-09-2020 =====
+
+* Introduce system integrated AppLock
+* Add 2 more switch styles
+* Add volume panel animations
+* Add custom analog clock sizes
+* Add ability to set custom image in Settings spacer
+* Change default blur radius for media
+* Updated translations
+* vince: Added Dirac support (Mi sound enhancer
+* vince: Updated blobs from LA.UM.8.6.r1-04700-89xx.0
+* vince: Updated vendor security patch from LA.UM.8.6.r1-04700-89xx.0
+* vince: Import additional DRM blobs from lmi V12.0.3.0.QJKMIXM 
+* vince: Fix slmadapter denials
+* vince: Kernel Upstreamed with tag 4.9.237
+
 ===== 20-09-2020 =====
 
 * RR version bump to 8.6.0
