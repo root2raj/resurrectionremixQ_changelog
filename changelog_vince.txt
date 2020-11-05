@@ -1,3 +1,15 @@
+===== 12-10-2020 =====
+
+* AppLock v1.1
+* Disable screen stabilization tile by default
+* Add option to add tint to inactive volume slider
+* Implement long swipe action for recent apps
+* Add option to cycle through ringer modes
+* Give omnijaws location permission by default
+* Lockscreen weather fixes
+* vince: Update to coral october fp
+* vince: Fix video & screen recording issues
+
 ===== 29-09-2020 =====
 
 * Introduce system integrated AppLock
