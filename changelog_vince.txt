@@ -1,3 +1,19 @@
+===== 06-11-2020 =====
+
+* RR v8.6.3
+* Added some new icon shapes
+* Optimized statusbar content padding
+* Added stock volume dialog tint styles
+* Added Resurrection clear theme 2
+* Added searchbar styles
+* Added smart charge tile
+* Fixed some landscape orientation issues
+* Added MIUI volume panel style
+* Some fixes and improvements
+* Updated translations
+* vince: Fix mobile data issues for some users
+* vince: Kernel Upstreamed with tag 4.9.239
+
 ===== 12-10-2020 =====
 
 * AppLock v1.1
