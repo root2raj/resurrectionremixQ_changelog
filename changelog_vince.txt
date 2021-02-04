@@ -1,3 +1,27 @@
+===== 04-02-2021 =====
+
+* RR v8.6.6
+* January security patch
+* Update translations
+* vince: Update to coral january fp
+
+===== 26-12-2020 =====
+
+* RR v8.6.5
+* December security patch
+* Update translations
+* vince: Update to coral december fp
+* vince: Switched to star kernel
+
+===== 25-11-2020 =====
+
+* RR v8.6.4
+* November security patch
+* Added launcher double tap to sleep setting
+* Added Seedvault 
+* Update translations
+* vince: Update to coral november fp
+
 ===== 06-11-2020 =====
 
 * RR v8.6.3
