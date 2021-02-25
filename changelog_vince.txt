@@ -1,3 +1,10 @@
+===== 25-02-2021 =====
+
+* RR v8.6.7
+* February security patch
+* Update translations
+* vince: Update to coral february fp
+
 ===== 04-02-2021 =====
 
 * RR v8.6.6
