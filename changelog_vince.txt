@@ -1,3 +1,18 @@
+===== 05-06-2021 =====
+
+* RR v8.6.9
+* May security patch
+* vince: Update to coral may fp
+* vince: Kernel Upstreamed with tag 4.9.269
+
+===== 02-05-2021 =====
+
+* RR v8.6.8
+* April security patch
+* Update translations
+* vince: Update to coral april fp
+* vince: Kernel Upstreamed with tag 4.9.268
+
 ===== 25-02-2021 =====
 
 * RR v8.6.7
